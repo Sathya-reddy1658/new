@@ -1,4 +1,4 @@
-//THIS A COLLEGE FINDER USING AN API
+//THIS IS  A COLLEGE FINDER USING AN API 
 let url = "http://universities.hipolabs.com/search?name=";
 let btn = document.getElementById("btn");
 btn.addEventListener("click", async () => {
