@@ -1,4 +1,4 @@
-
+//this is college finding using api
 let url = "http://universities.hipolabs.com/search?name=";
 let btn = document.getElementById("btn");
 btn.addEventListener("click", async () => {
